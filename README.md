@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Azure Policy / Azure Rest API
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Azure Management / Data Analyasis
+- 👯 I’m looking to collaborate on Azure Management / Data Analyasis / Blockchain
 - 💬 Ask me about ADFS / Python Azure SDK
 - 😄 Pronouns: Low-ees
 - ⚡ Fun fact: I like turtles
